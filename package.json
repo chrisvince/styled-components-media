@@ -1,0 +1,26 @@
+{
+  "name": "styled-components-media",
+  "version": "1.0.0",
+  "description": "A lightweight library to generate simple media queries in styled-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisvince/styled-components-media.git"
+  },
+  "keywords": [
+    "styled-components",
+    "styled",
+    "media",
+    "media",
+    "query"
+  ],
+  "author": "Chris Vince",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisvince/styled-components-media/issues"
+  },
+  "homepage": "https://github.com/chrisvince/styled-components-media#readme"
+}
