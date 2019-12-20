@@ -1,12 +1,11 @@
 {
   "name": "styled-components-media",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A lightweight library to generate simple media queries in styled-components",
   "main": "dist/main.js",
   "scripts": {
-    "test": "npm run test",
     "start": "webpack-dev-server",
-    "build": "webpack --mode=development"
+    "build": "webpack --mode=production"
   },
   "repository": {
     "type": "git",
