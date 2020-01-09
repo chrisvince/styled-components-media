@@ -1,7 +1,7 @@
-import { media } from './media'
-import { createMedia } from './createMedia'
+import media from './media'
+import createMedia from './createMedia'
 
-export default media
 export {
+	media,
 	createMedia
 }
