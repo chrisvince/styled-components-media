@@ -1,7 +1,7 @@
-import media from './media'
-import createMedia from './createMedia'
+import renderMediaQuery from './renderMediaQuery'
+import createMediaQueryRenderer from './createMediaQueryRenderer'
 
 export {
-	media,
-	createMedia
+	createMediaQueryRenderer,
+	renderMediaQuery as default,
 }

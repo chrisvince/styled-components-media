@@ -1,2 +1,1 @@
-import containsAny from './containsAny'
-export default containsAny
+export { default } from './containsAny'
