@@ -1,6 +1,6 @@
 {
   "name": "styled-components-media",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "A lightweight library to generate simple media queries in styled-components",
   "main": "dist/main.js",
   "scripts": {
